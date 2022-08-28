@@ -1,0 +1,25 @@
+body {
+    line-height: 1.5;
+    background-color: rgb(9, 2, 47);
+    width: 500px;
+    margin: auto;
+    color: aliceblue;
+}
+
+form {
+    background: rgb(14, 21, 98);
+    padding: 2.5rem 2.5rem; 
+    border-radius: 1rem;
+    width: 500px;
+    margin: auto;
+    color: aliceblue;
+}
+
+.submit-button{
+    width: 100%;
+    padding: 0.75rem;
+    background: rgb(17, 207, 17);
+    color: aliceblue;
+    border-radius: 2px;
+    
+}
